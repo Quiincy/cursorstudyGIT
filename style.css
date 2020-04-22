@@ -4,6 +4,7 @@
     color: #333;
     background-color: #fdffe2;
     border: 3px solid black;
+    text-decoration: underline;
 }
 
 .advanced {
@@ -16,7 +17,7 @@
 }
 
 .title_base {
-    margin: 20px auto 20px;
+    margin: 20px auto 0px;
     width: 100%;
     max-width: 950px;
     text-align: center;
@@ -24,7 +25,7 @@
 }
 
 .title_advanced {
-    margin: 20px auto 20px;
+    margin: 20px auto 0px;
     width: 100%;
     max-width: 950px;
     text-align: center;
@@ -35,4 +36,5 @@
 }
 .advanced_text {
     padding: 20px;
+    margin-bottom: 20px;
 }
