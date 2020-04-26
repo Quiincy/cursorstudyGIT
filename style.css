@@ -8,7 +8,7 @@
 
 .advanced {
     margin-top: 20px;
-   font-family: 'Bangers', cursive;
+    font-family: 'Bangers', cursive;
     font-size: 18px;
     color: #333;
     background-color: #fdffe2;
@@ -38,6 +38,7 @@
     padding: 20px;
     margin-bottom: 20px;
 }
+<<<<<<< HEAD
 
 @media (min-width: 320px) and (max-width: 600px) {
     .base {
@@ -47,3 +48,5 @@
         width: 95%;
     }
 }
+=======
+>>>>>>> 96a2ad4aa98097757a0b18e5f09b738263a6b2ec
